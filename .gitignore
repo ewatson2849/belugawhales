@@ -1,2 +1,6 @@
 1_assembly/
 .DS_Store
+*_R1.fastq*
+*_R2.fastq*                       
+*whale_feces_S170_R1_001.fastq*  
+*whale_feces_S170_R2_001.fastq*
